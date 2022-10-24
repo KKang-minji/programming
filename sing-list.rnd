@@ -1,3 +1,7 @@
 새로운 파일
 수정함
+<<<<<<< HEAD
 branch 수정
+=======
+master 수정
+>>>>>>> master
